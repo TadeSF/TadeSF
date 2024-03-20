@@ -5,7 +5,7 @@ I this project, we are working with a BERPN-Tech-Stack (Bun, Elysia, React, Pris
 
 Besides that, I have many small side projects, including some microelectronic projects related to my smart home setup and others in similar categories.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadesf)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadesf&show_icons=true&hide=stars&show=reviews,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### My WebDev Skills
